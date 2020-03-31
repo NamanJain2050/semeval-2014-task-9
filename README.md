@@ -11,5 +11,6 @@ Description of each notebook:
 <br>
 Model architecture for text classification task:
 
-
-![model_01](https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/model_01.png)
+<p align="center">
+  <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/model_01.png" alt="model_01"/>
+</p>
