@@ -9,7 +9,6 @@ Description of each notebook:
 3. Modelling.ipynb: CNN model for text classification task
 
 <br>
-
 Dataset details:
 
 <table>
@@ -24,6 +23,18 @@ Dataset details:
     <td>3640</td>
     <td>1458</td>
     <td>4586</td>		
+  </tr>
+  <tr>
+    <td>Train</td>
+    <td>2919</td>
+    <td>1166</td>
+    <td>3662</td>		
+  </tr>
+  <tr>
+    <td>Test</td>
+    <td>721</td>
+    <td>292</td>
+    <td>924</td>		
   </tr>
 </table> 
 
