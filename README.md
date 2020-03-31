@@ -58,11 +58,11 @@ Classification report: <br>
 <br>
 Metric Plot: <br>
 <p align="center">
-  <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/f1_score.png" alt="class_report"/>
+  <img width="500" height="500" src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/f1_score.png" alt="class_report"/>
 </p>
 <br>
 Loss Plot: <br>
 <p align="center">
-  <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/loss.png" alt="class_report"/>
+  <img width="500" height="500" src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/loss.png" alt="class_report"/>
 </p>
 <br>
