@@ -66,3 +66,7 @@ Loss Plot: <br>
   <img width="500" height="500" src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/loss.png" alt="class_report"/>
 </p>
 <br>
+
+## Conclusion
+
+We've achieved an F1-score of 0.6205 on test dataset
