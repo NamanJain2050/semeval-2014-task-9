@@ -8,5 +8,7 @@ Description of each notebook:
 2. Data cleaning and EDA.ipyb: Cleaning raw text and some Exploratory data analysis on our data
 3. Modelling.ipynb: CNN model for text classification task
 
+<br>
 Model architecture for text classification task:
+<br>
 ![model_01](https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/model_01.png)
