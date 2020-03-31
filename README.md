@@ -51,4 +51,18 @@ We've used GloVe embeddings trained on twitter dataset downloaded from here: htt
 
 ## Model Results
 
-Classification report:
+Classification report: <br>
+<p align="center">
+  <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/classification_report.png" alt="class_report"/>
+</p>
+<br>
+Metric Plot: <br>
+<p align="center">
+  <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/f1_score.png" alt="class_report"/>
+</p>
+<br>
+Loss Plot: <br>
+<p align="center">
+  <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/loss.png" alt="class_report"/>
+</p>
+<br>
