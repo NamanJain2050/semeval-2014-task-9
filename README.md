@@ -39,6 +39,8 @@ Complete data is dowloaded from the here: http://alt.qcri.org/semeval2017/task4/
 
 ## Model architecture for text classification task: <br>
 
+Model inspired from here: https://arxiv.org/abs/1610.08815 <br>
+
 <p align="center">
   <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/model_01.png" alt="model_01"/>
 </p>
