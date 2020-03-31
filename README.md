@@ -53,7 +53,7 @@ We've used GloVe embeddings trained on twitter dataset downloaded from here: htt
 
 Classification report: <br>
 <p align="center">
-  <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/classification_report.png" alt="class_report"/>
+  <img width="100" height="100" src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/images/classification_report.png" alt="class_report"/>
 </p>
 <br>
 Metric Plot: <br>
