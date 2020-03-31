@@ -9,8 +9,31 @@ Description of each notebook:
 3. Modelling.ipynb: CNN model for text classification task
 
 <br>
-Model architecture for text classification task:
+
+Dataset details:
+
+<table>
+  <tr>
+    <th></th>
+    <th>Positive</th>
+    <th>Negative</th>
+    <th>Nuetral</th>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>3640</td>
+    <td>1458</td>
+    <td>4586</td>		
+  </tr>
+</table> 
+
+<br>
+Model architecture for text classification task: <br>
 
 <p align="center">
   <img src="https://github.com/NamanJain2050/semeval-2014-task-9/blob/master/model_01.png" alt="model_01"/>
 </p>
+
+<br>
+
+We've used GloVe embeddings trained on twitter dataset downloaded from here: https://nlp.stanford.edu/projects/glove/
